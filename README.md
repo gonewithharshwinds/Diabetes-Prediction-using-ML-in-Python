@@ -2,6 +2,7 @@
 
 SVM ML model
 
+" The project is being improved "
 ## Introduction
 
 Diabetes is a number of diseases that involve problems with the hormone insulin. Normally, the pancreas (an organ behind the stomach) releases insulin to help your body store and use the sugar and fat from the food you eat. Diabetes can occur when the pancreas produces very little or no insulin, or when the body does not respond appropriately to insulin. As yet, there is no cure. People with diabetes need to manage their disease to stay healthy.
